@@ -132,7 +132,8 @@ agent.name: "name" AND rule.level >= 5
 
 ## 📷 Screenshots
 
-* Agent status: `Active` ![Agent Active](screenshots/agent-active.png)
+* Agent status: `Active`
+![Agent Active](screenshots/agent-active.png)
 * SSH brute-force alerts ![Alert View](screenshots/alerts-ssh.png)
 * Visual dashboard panels ![Alert Dashboard](screenshots/alerts-dashboard.png)
 
