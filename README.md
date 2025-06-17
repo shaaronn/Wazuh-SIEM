@@ -1,7 +1,3 @@
-# Wazuh-SIEM
-A home lab to simulate and detect security events using Wazuh SIEM.
-
-
 # 🛡️ Wazuh SIEM Home Lab Project
 
 ## 📌 Overview
